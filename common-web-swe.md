@@ -4,8 +4,8 @@
 
 ### Fundamentos Web
 
-#### **HTML5**
-**Qué aprenderás:**
+#### HTML5
+*Qué aprenderás:*
 - Elementos básicos y avanzados
 - Estructura semántica: `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<aside>`, `<footer>`
 - Elementos multimedia: `<video>`, `<audio>`, `<canvas>`, `<svg>`
@@ -13,13 +13,13 @@
 - Meta tags para SEO básicos: `description`, `keywords`, Open Graph, Twitter Cards
 - Accesibilidad básica: roles ARIA, `aria-label`, `aria-describedby`, `alt` en imágenes
 
-**Recursos:**
+*Recursos:*
 - **Gratuitos:** MDN Web Docs HTML Guide, freeCodeCamp HTML/CSS
 - **Udemy:** "Build Responsive Real-World Websites with HTML and CSS" por Jonas Schmedtmann
 - **Práctica:** Codepen.io, JSFiddle
 
-#### **CSS3**
-**Qué aprenderás:**
+#### CSS3
+*Qué aprenderás:*
 - Selectores y especificidad: cálculo de puntos, `!important`, inline vs external
 - Box model: content, padding, border, margin, `box-sizing`
 - Positioning: static, relative, absolute, fixed, sticky
@@ -29,14 +29,14 @@
 - Animaciones y transiciones básicas: `@keyframes`, `transition`, `transform`, `animation-fill-mode`
 - BEM methodology: `.block__element--modifier`
 
-**Recursos:**
+*Recursos:*
 - **Gratuitos:** CSS-Tricks, Flexbox Froggy, CSS Grid Garden
 - **Udemy:** "Advanced CSS and Sass" por Jonas Schmedtmann
 - **YouTube:** Kevin Powell (CSS specialist)
 - **Práctica:** CSS Battle, 100 Days CSS Challenge
 
-#### **JavaScript Básico**
-**Qué aprenderás:**
+#### JavaScript Básico
+*Qué aprenderás:*
 - Tipos primitivos: `string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`
 - Operadores: `typeof`, `instanceof`, `in`, `+`, `-`, `*`, `/`, `%`, `**`, `++`, `--`
 - Hoisting y variables: `var`, `let`, `const`
@@ -48,7 +48,7 @@
 - Event handling: `click`, `submit`, `keypress`, `load`, `resize`
 - Local storage y Session storage: `localStorage.setItem()`, `sessionStorage.getItem()`
 
-**Recursos:**
+*Recursos:*
 - **Gratuitos:** JavaScript.info, freeCodeCamp JavaScript
 - **Udemy:** "The Complete JavaScript Course" por Jonas Schmedtmann
 - **Eloquent JavaScript** (libro gratuito online)
@@ -57,27 +57,27 @@
 
 ### Herramientas de Desarrollo
 
-#### **Control de Versiones - Git**
-**Qué aprenderás:**
+#### Control de Versiones - Git
+*Qué aprenderás:*
 - Comandos básicos: `git init`, `git add`, `git commit`, `git push`, `git pull`
 - Branching básico: `git branch`, `git checkout`, `git merge`
 - GitHub workflow: fork, clone, pull requests
 - `.gitignore` y archivos de configuración
 
-**Recursos:**
+*Recursos:*
 - **Gratuito:** Git Documentation, GitHub Learning Lab
 - **Udemy:** "Git Complete: The definitive guide" por Jason Taylor
 - **Interactive:** Learn Git Branching (learngitbranching.js.org)
 - **Atlassian Git Tutorials**
 
-#### **Developer Tools**
-**Qué aprenderás:**
+#### Developer Tools
+*Qué aprenderás:*
 - Chrome DevTools: Elements, Console, Network, Performance
 - Debugging: breakpoints, watch expressions, call stack
 - Network tab y Performance tab: identificar bottlenecks
 - Lighthouse para auditorías
 
-**Recursos:**
+*Recursos:*
 - **Gratuito:** Chrome DevTools Documentation
 - **YouTube:** Chrome Developers Channel
 - **Google:** Web.dev courses
@@ -94,8 +94,8 @@
 
 ### JavaScript Intermedio
 
-#### **Programación Orientada a Objetos**
-**Qué aprenderás:**
+#### Programación Orientada a Objetos
+*Qué aprenderás:*
 - Prototypes: `Object.create()`, `__proto__` vs `prototype`
 - Constructor functions vs Classes (ES6)
 - Herencia: `extends`, `super()`, method overriding
@@ -104,14 +104,14 @@
 - Static methods y properties
 - Getters y setters
 
-**Recursos:**
+*Recursos:*
 - **Udemy:** "JavaScript: Understanding the Weird Parts" por Anthony Alicea
 - **Libros:** "You Don't Know JS: this & Object Prototypes"
 - **Mozilla:** JavaScript Classes Guide
 - **Práctica:** Crear sistema de herencia complejo
 
-#### **JavaScript Asíncrono**
-**Qué aprenderás:**
+#### JavaScript Asíncrono
+*Qué aprenderás:*
 - Event Loop: call stack, callback queue, microtasks, callback hell
 - Promises: `then()`, `catch()`, `finally()`, chaining
 - Async/await: error handling con try/catch
@@ -119,14 +119,14 @@
 - Fetch API: requests, response handling, CORS
 - Error handling asíncrono: throwing custom errors, error boundaries
 
-**Recursos:**
+*Recursos:*
 - **Gratuito:** JavaScript.info - Promises, async/await
 - **YouTube:** "What the heck is the event loop anyway?" por Philip Roberts
 - **Udemy:** "Asynchronous JavaScript" por Maximilian Schwarzmüller
 - **Práctica:** APIs públicas (JSONPlaceholder, REST Countries)
 
-#### **ES6+ Features Modernas**
-**Qué aprenderás:**
+#### ES6+ Features Modernas
+*Qué aprenderás:*
 - Arrow functions: lexical this, implicit returns
 - Destructuring: arrays, objects, nested, default values
 - Spread operator: arrays, objects, function parameters
@@ -136,7 +136,7 @@
 - Optional chaining: `?.`, nullish coalescing `??`
 - Default parameters
 
-**Recursos:**
+*Recursos:*
 - **Gratuito:** ES6.io (Wes Bos), Babel Learn ES2015
 - **Udemy:** "ES6 Javascript: The Complete Developer's Guide"
 - **Can I Use:** para compatibilidad de navegadores
@@ -144,8 +144,8 @@
 
 ### TypeScript Básico
 
-#### **Fundamentos TypeScript**
-**Qué aprenderás:**
+#### Fundamentos TypeScript
+*Qué aprenderás:*
 - Tipos básicos y type annotations: `string`, `number`, `boolean`, `array`
 - Interfaces: optional properties `?`, readonly
 - Union types: `string | number`
@@ -153,7 +153,7 @@
 - configuración básica: `tsconfig.json`, `strict` mode
 - Migración gradual desde JavaScript
 
-**Recursos:**
+*Recursos:*
 - **Gratuito:** TypeScript Handbook oficial
 - **Udemy:** "Understanding TypeScript" por Maximilian Schwarzmüller
 - **YouTube:** Ben Awad, Matt Pocock
@@ -162,8 +162,8 @@
 
 ### CSS Avanzado
 
-#### **Preprocesadores - Sass/SCSS**
-**Qué aprenderás:**
+#### Preprocesadores - Sass/SCSS
+*Qué aprenderás:*
 - Variables: `$primary-color: #333`
 - Nesting: selectores anidados, `&` parent selector
 - Mixins: `@mixin`, `@include`, parámetros
@@ -171,20 +171,20 @@
 - Partials y `@import`/`@use`
 - Control directives: `@if`, `@for`, `@each`
 
-**Recursos:**
+*Recursos:*
 - **Gratuito:** Sass Documentation
 - **Udemy:** "Advanced CSS and Sass" (Jonas Schmedtmann)
 - **YouTube:** DesignCourse, The Net Ninja
 - **Práctica:** Compilar Sass con diferentes tools
 
-#### **CSS Architecture**
-**Qué aprenderás:**
+#### CSS Architecture
+*Qué aprenderás:*
 - CSS Modules: scope local, composición
 - Styled Components: template literals, props
 - CSS-in-JS: emotion, styled-system
 - Utility-first: Tailwind concepts
 
-**Recursos:**
+*Recursos:*
 - **Styled Components:** documentación oficial
 - **CSS Modules:** webpack guide
 - **Tailwind CSS:** documentation y playground
@@ -213,8 +213,8 @@
 
 ### JavaScript Avanzado
 
-#### **Patrones de Diseño**
-**Qué aprenderás:**
+#### Patrones de Diseño
+*Qué aprenderás:*
 - Module Pattern: IIFE, revealing module
 - Observer Pattern: pub/sub, event emitters
 - Factory Pattern: object creation abstraction
@@ -222,14 +222,14 @@
 - Strategy Pattern: algorithm encapsulation
 - Decorator Pattern: behavior extension
 
-**Recursos:**
+*Recursos:*
 - **Libros:** "Learning JavaScript Design Patterns" por Addy Osmani
 - **Udemy:** "JavaScript Design Patterns" por Dmitri Nesteruk
 - **Refactoring Guru:** Design Patterns
 - **GitHub:** JavaScript design patterns examples
 
-#### **Functional Programming**
-**Qué aprenderás:**
+#### Functional Programming
+*Qué aprenderás:*
 - Higher-order functions: functions que retornan functions
 - Map, filter, reduce avanzado
 - Immutability: `Object.freeze()`, immutable data structures
@@ -239,14 +239,14 @@
 - Composition: combining functions
 - Monads basics: Maybe, Either patterns
 
-**Recursos:**
+*Recursos:*
 - **Libros:** "Functional-Light JavaScript" por Kyle Simpson
 - **Udemy:** "Functional Programming for Beginners with JavaScript"
 - **YouTube:** Fun Fun Function (Mattias Petter Johansson)
 - **Ramda.js:** functional programming library
 
-#### **Performance JavaScript**
-**Qué aprenderás:**
+#### Performance JavaScript
+*Qué aprenderás:*
 - Memory management: garbage collection, memory leaks
 - Event loop deep dive: macrotasks, microtasks
 - Call stack: stack frames, stack overflow
@@ -255,7 +255,7 @@
 - Web Workers: threading en JavaScript
 - Code splitting: dynamic imports
 
-**Recursos:**
+*Recursos:*
 - **Google:** Web Performance Course
 - **YouTube:** "In The Loop" - Jake Archibald
 - **Books:** "High Performance JavaScript" por Nicholas Zakas
@@ -263,8 +263,8 @@
 
 ### TypeScript Intermedio/Avanzado
 
-#### **Sistema de Tipos Avanzado**
-**Qué aprenderás:**
+#### Sistema de Tipos Avanzado
+*Qué aprenderás:*
 - Generics: `<T>`, constraints, default types
 - Conditional types: `T extends U ? X : Y`
 - Mapped types: `Record<K, V>`, `Partial<T>`, `Required<T>`
@@ -272,7 +272,7 @@
 - Type guards: `typeof`, `instanceof`, custom guards
 - Decorators: class, method, property decorators
 
-**Recursos:**
+*Recursos:*
 - **TypeScript Deep Dive:** basarat.gitbook.io
 - **YouTube:** Matt Pocock "TypeScript Tips"
 - **Udemy:** "TypeScript: The Complete Developer's Guide"
@@ -280,22 +280,22 @@
 
 ### Arquitectura Frontend
 
-#### **Design Patterns & Architecture**
-**Qué aprenderás:**
+#### Design Patterns & Architecture
+*Qué aprenderás:*
 - MVC/MVP/MVVM: separation of concerns
 - Component-based architecture: composition, props, state
 - State management patterns: flux, redux pattern
 - Micro-frontends: module federation, single-spa
 - Clean architecture: layers, dependency inversion
 
-**Recursos:**
+*Recursos:*
 - **Libros:** "Clean Architecture" por Robert Martin
 - **Articles:** Martin Fowler's architecture articles
 - **YouTube:** Architecture conferences (ReactConf, JSConf)
 - **Medium:** Architecture case studies
 
-#### **Performance Web**
-**Qué aprenderás:**
+#### Performance Web
+*Qué aprenderás:*
 - Core Web Vitals
 - Bundle optimization
 - Code splitting
@@ -304,8 +304,8 @@
 
 ### Testing Avanzado
 
-#### **Estrategias de Testing**
-**Qué aprenderás:**
+#### Estrategias de Testing
+*Qué aprenderás:*
 - Testing pyramid: unit, integration, e2e ratios
 - Jest: matchers, mocks, spies, setup/teardown
 - Testing Library: queries, user events, accessibility
@@ -314,7 +314,7 @@
 - A11y testing: axe-core, jest-axe
 - Testing accessibility
 
-**Recursos:**
+*Recursos:*
 - **Testing Library:** documentación oficial
 - **Udemy:** "JavaScript Testing Introduction" por Mosh Hamedani
 - **Kent C. Dodds:** Testing JavaScript course
@@ -322,13 +322,13 @@
 
 ### Build Tools y DevOps
 
-#### **Webpack Avanzado**
+#### Webpack Avanzado*
 - Configuración custom
 - Plugins y loaders
 - Bundle analysis
 - Hot module replacement
 
-#### **CI/CD Básico**
+#### CI/CD Básico*
 - GitHub Actions
 - Automated testing
 - Deployment strategies
@@ -339,8 +339,8 @@
 
 ### JavaScript Expert
 
-#### **Engine Internals**
-**Qué aprenderás:**
+#### Engine Internals
+*Qué aprenderás:*
 - V8 engine: compilation pipeline, optimization
 - JIT compilation: TurboFan, Ignition interpreter
 - Garbage collection: generational, mark-and-sweep
@@ -348,28 +348,28 @@
 - Hidden classes y inline caching
 - Performance profiling avanzado
 
-**Recursos:**
+*Recursos:*
 - **V8 Blog:** official V8 development blog
 - **YouTube:** "Life of a Pixel" y V8 talks
 - **Books:** "V8 Internals for JavaScript Developers"
 - **Articles:** Vyacheslav Egorov's blog
 
-#### **Advanced Async Patterns**
-**Qué aprenderás:**
+#### Advanced Async Patterns
+*Qué aprenderás:*
 - Generators: `function*`, `yield`, iteration protocol
 - Async generators: `async function*`, `for await`
 - Streams API: ReadableStream, TransformStream
 - AbortController: cancellation patterns
 - Service Workers: lifecycle, caching strategies, background sync
 
-**Recursos:**
+*Recursos:*
 - **MDN:** Advanced JavaScript concepts
 - **YouTube:** Jake Archibald service workers talks
 - **Books:** "JavaScript: The Definitive Guide" por David Flanagan
 - **Practice:** PWA implementation
 
-#### **Meta-programming**
-**Qué aprenderás:**
+#### Meta-programming
+*Qué aprenderás:*
 - Proxy y Reflect API
 - Symbol usage
 - WeakMap y WeakSet
@@ -377,51 +377,51 @@
 
 ### TypeScript Expert
 
-#### **Advanced Type System**
-**Qué aprenderás:**
+#### Advanced Type System
+*Qué aprenderás:*
 - Template literal types: string manipulation at type level
 - Recursive types: tree structures, nested objects
 - Branded types: nominal typing simulation
 - Type-level programming: computing types from types
 - Advanced inference: infer keyword, distributive conditionals
 
-**Recursos:**
+*Recursos:*
 - **GitHub:** type-challenges repository
 - **YouTube:** Matt Pocock advanced TypeScript
 - **Articles:** TypeScript blog announcements
 - **Books:** "Programming TypeScript" por Boris Cherny
 
-#### **Compiler API**
-**Qué aprenderás:**
+#### Compiler API
+*Qué aprenderás:*
 - AST manipulation
 - Custom transformers
 - Language service plugins
 
 ### Arquitectura Compleja
 
-#### **Micro-frontends**
-**Qué aprenderás:**
+#### Micro-frontends
+*Qué aprenderás:*
 - Module Federation: Webpack 5 feature
 - Single-SPA: framework-agnostic routing
 - Team topologies: Conway's law, team boundaries
 - Deployment strategies: independent deployments
 - Shared dependencies management
 
-**Recursos:**
+*Recursos:*
 - **Micro Frontends:** martinfowler.com article
 - **Single-SPA:** official documentation
 - **YouTube:** Webpack Module Federation talks
 - **Books:** "Building Micro-Frontends" por Luca Mezzalira
 
-#### **Design Systems**
-**Qué aprenderás:**
+#### Design Systems
+*Qué aprenderás:*
 - Component libraries: API design, composition
 - Design tokens: colors, typography, spacing systems
 - Documentation: Storybook, automated docs
 - Version management: semantic versioning, changelogs
 - Cross-platform consistency
 
-**Recursos:**
+*Recursos:*
 - **Storybook:** official documentation
 - **Design Systems:** designsystemsrepo.com
 - **Articles:** Brad Frost's Atomic Design
@@ -429,16 +429,16 @@
 
 ### Performance Expert
 
-#### **Advanced Optimization**
-**Qué aprenderás:**
+#### Advanced Optimization
+*Qué aprenderás:*
 - Runtime performance
 - Memory leak detection
 - Bundle optimization
 - Network optimization
 - Progressive enhancement
 
-#### **Monitoring y Analytics**
-**Qué aprenderás:**
+#### Monitoring y Analytics
+*Qué aprenderás:*
 - Real User Monitoring (RUM)
 - Performance budgets
 - Error tracking
@@ -446,16 +446,16 @@
 
 ### Security
 
-#### **Web Security**
-**Qué aprenderás:**
+#### Web Security
+*Qué aprenderás:*
 - XSS, CSRF, CSP
 - Secure authentication flows
 - OWASP Top 10
 - Security headers
 
 ### Tooling Avanzado
-#### **Custom Build Tools**
-**Qué aprenderás:**
+#### Custom Build Tools
+*Qué aprenderás:*
 - Plugin development
 - Custom linters (ESLint rules)
 - Code generators
@@ -467,29 +467,29 @@
 
 ### Innovación y Liderazgo Técnico
 
-#### **Emerging Technologies**
-**Qué aprenderás:**
+#### Emerging Technologies
+*Qué aprenderás:*
 - WebAssembly: compilation targets, WASI
 - Edge computing: Cloudflare Workers, Vercel Edge
 - Progressive Web Apps: service workers, web app manifest
 - Web3 integration: wallet connections, smart contracts
 - AI/ML: TensorFlow.js, computer vision en browser
 
-**Recursos:**
+*Recursos:*
 - **WebAssembly:** official documentation
 - **Web.dev:** Progressive Web Apps course
 - **YouTube:** Chrome Developers emerging APIs
 - **GitHub:** WebAssembly examples y tools
 
-#### **Browser APIs Avanzadas**
-**Qué aprenderás:**
+#### Browser APIs Avanzadas
+*Qué aprenderás:*
 - Payment Request API: payment processing
 - WebRTC: peer-to-peer communication
 - WebXR: virtual y augmented reality
 - Web Bluetooth/USB: hardware integration
 - Background Sync: offline-first applications
 
-**Recursos:**
+*Recursos:*
 - **MDN:** Web APIs reference
 - **Google Developers:** WebRTC samples
 - **Mozilla:** WebXR documentation
@@ -497,16 +497,16 @@
 
 ### Arquitectura Empresarial
 
-#### **Large Scale Systems**
-**Qué aprenderás:**
+#### Large Scale Systems
+*Qué aprenderás:*
 - Multi-team architecture
 - Monorepo strategies
 - Cross-platform considerations
 - Legacy system integration
 - Migration strategies
 
-#### **Technical Leadership**
-**Qué aprenderás:**
+#### Technical Leadership
+*Qué aprenderás:*
 - Code review strategies
 - Mentoring programs
 - Technical decision frameworks
@@ -515,22 +515,22 @@
 
 ### Research y Development
 
-#### **Contribución Open Source**
-**Qué aprenderás:**
+#### Contribución Open Source
+*Qué aprenderás:*
 - Library/framework development: API design, testing, documentation
 - RFC writing: specification documents
 - Community building: maintainer responsibilities
 - Speaking: conference presentations, workshops
 - Patent applications: intellectual property
 
-**Recursos:**
+*Recursos:*
 - **GitHub:** Open Source Guides
 - **Conferences:** JSConf, ReactConf, VueConf
 - **Communities:** Stack Overflow, Reddit programming
 - **Platforms:** Dev.to, Medium publications
 
-#### **Innovation Labs**
-**Qué aprenderás:**
+#### Innovation Labs
+*Qué aprenderás:*
 - Proof of concepts
 - Technology evaluation
 - Future-proofing strategies
@@ -538,15 +538,15 @@
 
 ### Business Impact
 
-#### **Product Strategy**
-**Qué aprenderás:**
+#### Product Strategy
+*Qué aprenderás:*
 - Technical roadmapping
 - Cost-benefit analysis
 - Technical debt management
 - Stakeholder communication
 
-#### **Team Scaling**
-**Qué aprenderás:**
+#### Team Scaling
+*Qué aprenderás:*
 - Hiring strategies
 - Training programs
 - Process optimization
@@ -554,15 +554,15 @@
 
 ### Advanced Specializations
 
-#### **Accessibility Expert**
-**Qué aprenderás:**
+#### Accessibility Expert
+*Qué aprenderás:*
 - WCAG 2.1 AA/AAA compliance
 - Assistive technology integration
 - Accessibility auditing
 - Legal compliance
 
-#### **Performance Consultant**
-**Qué aprenderás:**
+#### Performance Consultant
+*Qué aprenderás:*
 - Cross-platform optimization
 - Advanced profiling
 - Performance culture
@@ -572,27 +572,27 @@
 
 ## 🗂️ Proyectos Prácticos Progresivos
 
-#### **Junior:**
+#### Junior:*
 - Landing page responsive
 - Todo app con localStorage
 - Calculator con JavaScript vanilla
 
-#### **Proficient:**
+#### Proficient:*
 - Weather app con API
 - E-commerce product catalog
 - Blog con TypeScript básico
 
-#### **Senior:**
+#### Senior:*
 - Component library con testing
 - PWA completa
 - Performance-optimized SPA
 
-#### **Expertise:**
+#### Expertise:*
 - Micro-frontend architecture
 - Design system completo
 - Advanced animation library
 
-#### **Master:**
+#### Master:*
 - Open source tool/library
 - Conference talk preparation
 - Technical mentorship program
@@ -619,31 +619,31 @@
 
 ## 📚 Recursos Adicionales por Categoría
 
-### **Plataformas de Aprendizaje Premium**
+### **Plataformas de Aprendizaje Premium*
 - **Frontend Masters:** advanced courses por industry experts
 - **Pluralsight:** comprehensive tech learning
 - **egghead.io:** concise, practical lessons
 - **Level Up Tutorials:** modern web development
 
-### **Libros Imprescindibles**
+### **Libros Imprescindibles*
 - "You Don't Know JS" series - Kyle Simpson
 - "Eloquent JavaScript" - Marijn Haverbeke
 - "JavaScript: The Good Parts" - Douglas Crockford
 - "Clean Code" - Robert Martin
 
-### **Blogs y Referencias**
+### **Blogs y Referencias*
 - **CSS-Tricks:** CSS y frontend en general
 - **Smashing Magazine:** web design y development
 - **A List Apart:** web standards y best practices
 - **24ways:** advent calendar de web development
 
-### **Herramientas de Práctica**
+### **Herramientas de Práctica*
 - **CodeSandbox:** online IDE para proyectos
 - **Repl.it:** coding playground
 - **Codepen:** frontend experiments
 - **GitHub Pages:** hosting gratuito
 
-### **Comunidades**
+### **Comunidades*
 - **Stack Overflow:** Q&A programming
 - **Reddit:** r/javascript, r/webdev, r/frontend
 - **Discord:** reactiflux, devcord
