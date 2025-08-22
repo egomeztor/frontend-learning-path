@@ -1,2 +1,13 @@
-# itinerario-formacion-frontend
-Itinerarios de formación para desarrolladores frontend.
+# Frontend Learning Path
+
+Este repositorio está dedicado a la recopilación de documentos y temarios de formación para ingenieros de software frontend.
+
+Aquí encontrarás materiales organizados por temas, guías y recursos útiles para estructurar y planificar la formación en tecnologías y buenas prácticas del desarrollo frontend.
+
+## ¿Qué puedes encontrar aquí?
+
+- Temarios de formación para distintos niveles (junior, mid, senior)
+- Documentos sobre tecnologías, herramientas y metodologías actuales en frontend
+- Recursos recomendados para el autoaprendizaje y la capacitación interna
+
+Este proyecto está en constante actualización para adaptarse a las necesidades de formación del equipo y a las tendencias del sector.
