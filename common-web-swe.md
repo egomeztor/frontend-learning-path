@@ -572,27 +572,27 @@
 
 ## 🗂️ Proyectos Prácticos Progresivos
 
-#### Junior:*
+#### Junior:
 - Landing page responsive
 - Todo app con localStorage
 - Calculator con JavaScript vanilla
 
-#### Proficient:*
+#### Proficient:
 - Weather app con API
 - E-commerce product catalog
 - Blog con TypeScript básico
 
-#### Senior:*
+#### Senior:
 - Component library con testing
 - PWA completa
 - Performance-optimized SPA
 
-#### Expertise:*
+#### Expertise:
 - Micro-frontend architecture
 - Design system completo
 - Advanced animation library
 
-#### Master:*
+#### Master:
 - Open source tool/library
 - Conference talk preparation
 - Technical mentorship program
@@ -619,31 +619,31 @@
 
 ## 📚 Recursos Adicionales por Categoría
 
-### **Plataformas de Aprendizaje Premium*
+### Plataformas de Aprendizaje Premium
 - **Frontend Masters:** advanced courses por industry experts
 - **Pluralsight:** comprehensive tech learning
 - **egghead.io:** concise, practical lessons
 - **Level Up Tutorials:** modern web development
 
-### **Libros Imprescindibles*
+### Libros Imprescindibles
 - "You Don't Know JS" series - Kyle Simpson
 - "Eloquent JavaScript" - Marijn Haverbeke
 - "JavaScript: The Good Parts" - Douglas Crockford
 - "Clean Code" - Robert Martin
 
-### **Blogs y Referencias*
+### Blogs y Referencias
 - **CSS-Tricks:** CSS y frontend en general
 - **Smashing Magazine:** web design y development
 - **A List Apart:** web standards y best practices
 - **24ways:** advent calendar de web development
 
-### **Herramientas de Práctica*
+### Herramientas de Práctica
 - **CodeSandbox:** online IDE para proyectos
 - **Repl.it:** coding playground
 - **Codepen:** frontend experiments
 - **GitHub Pages:** hosting gratuito
 
-### **Comunidades*
+### Comunidades
 - **Stack Overflow:** Q&A programming
 - **Reddit:** r/javascript, r/webdev, r/frontend
 - **Discord:** reactiflux, devcord
