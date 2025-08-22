@@ -11,3 +11,7 @@ Aquí encontrarás materiales organizados por temas, guías y recursos útiles p
 - Recursos recomendados para el autoaprendizaje y la capacitación interna
 
 Este proyecto está en constante actualización para adaptarse a las necesidades de formación del equipo y a las tendencias del sector.
+
+## Documentos disponibles
+
+- [Common Frontend Software Engineer](common-web-swe.md): Temario general para ingenieros de software frontend, incluyendo fundamentos web, HTML5, accesibilidad, SEO y recursos recomendados.
