@@ -1,4 +1,4 @@
-# Temario Detallado: Common Frontend Software Engineer
+# Common Frontend Software Engineer
 
 ## 🎯 Nivel Junior
 
