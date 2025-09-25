@@ -55,5 +55,5 @@ Ambos programas mantienen la estructura original de 5 niveles (Junior → Profic
 ## Documentos disponibles
 
 - [Common Frontend Software Engineer](common-web-swe.md): Temario general para ingenieros de software frontend, incluyendo fundamentos web, HTML5, accesibilidad, SEO y recursos recomendados.
-- [Angular Software Engineer](angular-web-swe.md): Temario específico para ingenieros de software frontend especializados en Angular, cubriendo desde conceptos básicos hasta avanzados.
-- [React Software Engineer](react-web-swe.md): Temario específico para ingenieros de software frontend especializados en React, abarcando desde fundamentos hasta temas avanzados.
+- [Angular Software Engineer](angular-swe.md): Temario específico para ingenieros de software frontend especializados en Angular, cubriendo desde conceptos básicos hasta avanzados.
+- [React Software Engineer](react-swe.md): Temario específico para ingenieros de software frontend especializados en React, abarcando desde fundamentos hasta temas avanzados.
